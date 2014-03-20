@@ -1,9 +1,5 @@
 #drinks
 
-
-## Cocktail Recipes by the Elastic team
-
-
 25 Templeton  
 25 Green chartreuse  
 25 Amaro  
