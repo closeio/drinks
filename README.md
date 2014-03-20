@@ -3,8 +3,10 @@
 25 Templeton  
 25 Green chartreuse  
 25 Amaro  
+Lemon Zest 
 
 
+<!--- needs a bit less sweetness -->
 3 dash fee brothers bitters  
 20 dram  
 50 laphroaig  
@@ -89,6 +91,8 @@ Peach bitters
 25 lemon  
 Eggwhite  
 
-
+50 whistlepig 
+15 Cynar
+15 Green Chartreuse
 
 
