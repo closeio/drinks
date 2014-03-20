@@ -91,8 +91,9 @@ Peach bitters
 25 lemon  
 Eggwhite  
 
-50 whistlepig 
-15 Cynar
-15 Green Chartreuse
+
+50 whistlepig  
+15 Cynar  
+15 Green Chartreuse  
 
 
