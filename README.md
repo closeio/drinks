@@ -98,12 +98,12 @@ Eggwhite
 
 
 ### Fun Summer Mango Drink
-Sear half a mango / braze with truffle oil first 
-cube the grilled mango into a shaker 
-muddle with: 
-50ml vida mezcal 
-15ml agave nectar 
-15ml lime juice 
-Shake, strain into coupe 
+Sear half a mango / braze with truffle oil first  
+cube the grilled mango into a shaker  
+muddle with:  
+50ml vida mezcal  
+15ml agave nectar  
+15ml lime juice  
+Shake, strain into coupe  
 
 
