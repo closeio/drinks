@@ -97,7 +97,7 @@ Eggwhite
 15 Green Chartreuse  
 
 
-### Fun Summer Mango Drink
+### Oaxaca Flocka Flame
 Sear half a mango / braze with truffle oil first  
 cube the grilled mango into a shaker  
 muddle with:  
