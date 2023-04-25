@@ -1,4 +1,4 @@
-#drinks
+# drinks
 
 25 Templeton  
 25 Green chartreuse  
@@ -6,14 +6,14 @@
 Lemon Zest 
 
 
-<!--- needs a bit less sweetness -->
+(needs a bit less sweetness)
 3 dash fee brothers bitters  
 20 dram  
 50 laphroaig  
 10 Benedictine  
 
 
-###Old fashioned  
+### Old fashioned  
 1 teaspoon sugar  
 3 dash fee brothers  
 Dash water  
@@ -25,7 +25,7 @@ Stir
 
 
 
-###The Steli (meh)
+### The Steli (meh)
 
 25ml glennorangie  
 25 ml whistle pig  
@@ -34,20 +34,20 @@ Stir
 3 drops lemon  
 
 
-###Mezcal Old Fashioned
+### Mezcal Old Fashioned
 Smokey mescal  
 Yellow chartreuse   
 Sweet vermouth  
 
 
-###Tom's Dry Rye  
+### Tom's Dry Rye  
 Rye gin  
 Compari  
 Fernette  
 Lemon  
 Bitters  
 
-###Nick's Dry Rye
+### Nick's Dry Rye
 50 rye gin  
 5 green  
 5 dram  
@@ -56,13 +56,13 @@ Bitters
 Tumbler. Block ice. Orange.   
 
 
-###Trinidad sour  
+### Trinidad sour  
 45ml angostura bitters  
 15 Rittenhouse rye  
 45 Orgeat syrup. Almond sugar syrup.   
 30 Lemon juice  
 
-###The Anthony
+### The Anthony
 50 Tahitian dark rum  
 15 Cynar  
 15 aperol  
